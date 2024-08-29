@@ -2,8 +2,6 @@
 
 O projeto envolve um microserviço dedicado à autenticação e um sistema separado para gerenciamento de tombamentos.
 
-## Projeto Principal: 
-
 ### Microserviço de Autenticação
 - **Descrição**: Este microserviço é responsável pela autenticação de usuários utilizando JWT (JSON Web Tokens). Ele garante uma autenticação segura e eficiente para a comunicação entre diferentes partes do sistema.
 - **Tecnologias Utilizadas**:
