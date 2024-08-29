@@ -23,7 +23,7 @@ O projeto envolve um microserviço dedicado à autenticação e um sistema separ
 
 Abaixo está o diagrama relacional do banco de dados utilizado no projeto:
 
-![Diagrama Relacional](assets/diagrama_relacional.png)
+![Diagrama Relacional](../assets/diagrama_relacional.png)
 
 ## Diagrama de Usuários (MS-Authentication)
 
